@@ -33,6 +33,6 @@ brew services start mongodb-community@7.0
 4. Run the app:
 node server.js
 
-
 5. Open in browser:
 http://localhost:3000
+
